@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">InnogyBot</string>
+
+    <!--Main screen-->
+    <string name="phone">00492011225000</string>
+    <string name="welcome">Hallo, ich bin der innogy Chatbot. Ich kann für Sie den Kontakt zu einem Helpdesk oder einer Hotline herstellen, Ihr Kennwort entsperren oder zurücksetzen, Ihnen den Status eines Ihrer Tickets mitteilen oder eine Störungsmeldung aufnehmen. Was wünschen Sie?.</string>
+    <string name="welcome_message">, ich bin der innogy Chatbot. Ich kann für Sie den Kontakt zu einem Helpdesk oder einer Hotline herstellen, Ihr Kennwort entsperren oder zurücksetzen, Ihnen den Status eines Ihrer Tickets mitteilen oder eine Störungsmeldung aufnehmen. Was wünschen Sie?</string>
+    <string name="label_voice">Listening ...</string>
+    <string name="expired_time_dialog">Falls sprechen Sie nicht in nächsten 15 Sekunden, werden wir unseren Service beenden.</string>
+
+    <!--Login Screen-->
+    <string name="login_label">Geben Sie Ihre ID ein</string>
+
+    <!--Dialog-->
+    <string name="permission_message">This app needs to record audio and recognize your speech. </string>
+    <string name="error_title">Fehler</string>
+    <string name="error_login">Ihre ID existiert nicht. Bitte überprüfe es nocheinmal</string>
+    <string name="confirm_ok">OK</string>
+    <string name="confirm_no">NO</string>
+    <string name="confirm_try_again">Try again</string>
+    <string name="confirm_login_label">Ist es deine ID?</string>
+    <string name="confirm_login_content">Ist Ihr ID</string>
+    <string name="confirm_id_is_null">Sie müssen eine Nummer eingeben</string>
+
+    <!--API-->
+    <string name="base_url">http://52.28.235.84:8080/api/</string>
+    <!--<string name="base_url">http://35.158.49.120/api/</string>-->
+    <string name="endpoint_conversation">https://gateway-fra.watsonplatform.net/conversation/api</string>
+    <string name="endpoint_texttospeed">https://stream-fra.watsonplatform.net/text-to-speech/api</string>
+
+    <!--Language config-->
+    <string-array name="popular_word">
+        <item>RWE</item>
+        <item>innogy</item>
+        <item>SAP</item>
+        <item>CIAM</item>
+        <item>Service Desk</item>
+        <item>Hotline</item>
+        <item>VTS</item>
+        <item>WBT</item>
+        <item>WordPress</item>
+        <item>ESS</item>
+        <item>ID</item>
+        <item>IT</item>
+        <item>IT Helpdesk</item>
+        <item>Brava</item>
+        <item>IE</item>
+        <item>Internet Explorer</item>
+        <item>Wabis</item>
+        <item>Forms</item>
+        <item>Brava</item>
+        <item>iService</item>
+        <item>SelfService</item>
+        <item>Employee Self Service</item>
+        <item>Trainingaccount</item>
+        <item>RCD</item>
+        <item>Sabio</item>
+        <item>Cicero</item>
+        <item>PDF</item>
+        <item>Hardware</item>
+        <item>Account</item>
+        <item>vSmart</item>
+        <item>outlook</item>
+        <item>task</item>
+        <item>Bitlocker</item>
+        <item>Recovery</item>
+        <item>SRV</item>
+        <item>Cisco</item>
+        <item>MFD</item>
+        <item>OCR</item>
+        <item>PST</item>
+        <item>ZUWO</item>
+        <item>SmartCard</item>
+        <item>Blue Cielo Meridian</item>
+        <item>MAM</item>
+        <item>S/Mime</item>
+        <item>K-TP</item>
+        <item>VT</item>
+        <item>DOBC</item>
+        <item>SNOW</item>
+        <item>ServiceNow</item>
+        <item>KP3</item>
+        <item>ServiceNow</item>
+        <item>Outlook</item>
+        <item>Citrix</item>
+        <item>RTO</item>
+        <item>Share Point</item>
+        <item>ARIS</item>
+        <item>FCPro</item>
+        <item>Status</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+
+</resources>
